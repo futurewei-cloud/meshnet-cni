@@ -1,3 +1,5 @@
+"This Project has been archived by the owner, who is no longer providing support.  The project remains available to authorized users on a "read only" basis."
+
 [![Actions Status](https://github.com/networkop/meshnet-cni/workflows/CI/badge.svg)](https://github.com/networkop/meshnet-cni/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/networkop/meshnet.svg)](https://img.shields.io/docker/pulls/networkop/meshnet)
 [![Go Report Card](https://goreportcard.com/badge/github.com/networkop/meshnet-cni)](https://goreportcard.com/report/github.com/networkop/meshnet-cni)
